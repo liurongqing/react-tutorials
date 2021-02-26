@@ -1,0 +1,1 @@
+export default (props: any) => <h1>login</h1>

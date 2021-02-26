@@ -1,4 +1,8 @@
+import { Button } from 'antd'
+// import { BrowserRouter as Router, Switch, Route, Link } from "react-router-dom"
+
 export default () => {
-  console.log("hello world render...");
-  return <h1>hello world</h1>;
+  return <div>
+    <h1>hello world</h1>
+  </div>;
 };
