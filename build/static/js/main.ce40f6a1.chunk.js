@@ -1,0 +1,2 @@
+(this["webpackJsonptest-hooks"]=this["webpackJsonptest-hooks"]||[]).push([[0],{10:function(e,t,s){"use strict";s.r(t);var n=s(3),c=(s(8),s(0));function o(){return Object(c.jsxs)("div",{className:"App",children:[Object(c.jsx)("h1",{children:"Hello CodeSandbox 123456"}),Object(c.jsx)("h2",{children:"Start editing to see some magic happen!"})]})}const i=document.getElementById("root");Object(n.render)(Object(c.jsx)(o,{}),i)},8:function(e,t,s){}},[[10,1,2]]]);
+//# sourceMappingURL=main.ce40f6a1.chunk.js.map
